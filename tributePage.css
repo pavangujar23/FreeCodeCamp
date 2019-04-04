@@ -1,0 +1,28 @@
+body{
+    background-color: #eee;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+  }
+  #main{
+    text-align: center;
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+  }
+  #img-div{
+    background-color: white;
+    padding: 60px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    text-align: center;
+  }
+  #quote{
+    text-align: center;
+  }
+  .plll{
+    padding:0px 320px 0px 320px;
+    text-align: justify;
+  }
+  #idhead{
+    margin-left: 23px;
+  }
+  #img-caption{
+    font-size: 60px;
+    margin-top: 20px !important;
+  }
